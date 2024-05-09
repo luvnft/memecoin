@@ -96,10 +96,10 @@ export default function Airdrops() {
         })}
       </h1>
       <span className="text-xs">
-        Airdrops were sent to CK58SqUPBYXeyaQoq1zVQmETEqSQrP7xUGBkwaRfs7CL either
-        as advertising or donations. If you want your ticker to show up in this
-        experiment, feel free to donate! Airdrops will be held until the end of the 
-        experiment (TBD but a few months at least). Join the <a href="https://example.com/NFTV">NFTV</a> Discord.
+      Airdrops were sent to CK58SqUPBYXeyaQoq1zVQmETEqSQrP7xUGBkwaRfs7CL either
+      as advertising or donations. If you want your ticker to show up in this
+      experiment, feel free to donate! Airdrops will be held until the end of the
+      experiment (TBD but a few months at least). Join the <a href="https://example.com/NFTV">NFTV</a> Discord.
       </span>
 
       <table className="text-xs">
